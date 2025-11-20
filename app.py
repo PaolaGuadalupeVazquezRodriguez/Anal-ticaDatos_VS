@@ -7,6 +7,7 @@
 #
 # Nota: Sin API ni chatbot. Mantiene la paleta verde DIMEX.
 
+
 # ==== IMPORTS ==========================================================
 import streamlit as st 
 import textwrap                  # Framework de UI web rápida en Python
