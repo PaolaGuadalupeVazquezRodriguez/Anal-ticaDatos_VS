@@ -8,4 +8,4 @@ python-dotenv
 openai
 google-generativeai
 openpyxl
-statsmodels
+statsmodels.api
