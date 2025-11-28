@@ -42,7 +42,7 @@ from geopy.extra.rate_limiter import RateLimiter
 # ============================================================
 
 # Debe tener columnas: sSucursal , CP
-df_raw = pd.read_xlsx("Sucursales_codigo_postal.xlsx")
+df_raw = pd.read_excel("Sucursales_codigo_postal.xlsx")
 df_raw["CP"] = df_raw["CP"].astype(str)
 
 
