@@ -9,3 +9,5 @@ openai
 google-generativeai
 openpyxl
 statsmodels.api
+geopandas
+geopy
