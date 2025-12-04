@@ -8,7 +8,7 @@ python-dotenv
 openai
 google-generativeai
 openpyxl
-statsmodels.api
+statsmodels
 geopandas
 geopy
 pgeocode
